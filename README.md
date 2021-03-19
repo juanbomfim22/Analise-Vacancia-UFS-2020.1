@@ -63,9 +63,9 @@ Funcionalidades
 O programa permite que o usuário escolha quantas e quaisquer componentes (Turmas) de modo a realizar a comparação da vacância das vagas ofertadas, em um gráfico de colunas empilhadas. O comparativo entre matriculados e capacidade tem a observação facilitada utilizando o _scroll_ do mouse para aumentar ou diminuir o _zoom_ do gráfico.
 
 
-4. Interface do usuário
+4. Interface do usuário  
 ![GUI1](https://i.imgur.com/qZoZVaM.png)
-5. Várias seleções são possíveis
+5. Várias seleções são possíveis  
 ![GUI2](https://imgur.com/I1QyZ22.png)
 
 
