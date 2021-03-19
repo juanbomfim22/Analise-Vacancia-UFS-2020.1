@@ -72,7 +72,7 @@ O programa permite que o usuário escolha quantas e quaisquer componentes (Turma
 Instalação
 ------------
 
-Dentro do MyProjectPOO.zip existem duas pastas: data e file. Utilize os arquivos do "file" (com o .pro) no Qt Creator. Quanto aos arquivo de dados "dados.csv", coloque-o dentro das pastas dos caminhos: 
+Utilize os arquivos com extensão ".pro" no Qt Creator. Quanto aos arquivo de dados "dados.csv", coloque-o dentro das pastas dos caminhos: 
 ```
 \build-ProjetoPOO-Desktop_Qt_5_15_2_MinGW_64_bit-Release
 ```
