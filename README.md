@@ -29,7 +29,7 @@ Diante de diversas informações obtidas na busca, foram filtrados os dados refe
 
 Com essas informações, foi elaborada uma interface gráfica que dispõe colunas empilhadas com base na escolha do usuário. 
 
-1. O caminho para informações sobre Turma no SIGAA
+1. O caminho para informações sobre Turma no SIGAA  
 ![UFS1](https://imgur.com/tqGvXZb.png)
 2. Consulta dos departamentos
 ![UFS2](https://imgur.com/ntdY1fr.png)
