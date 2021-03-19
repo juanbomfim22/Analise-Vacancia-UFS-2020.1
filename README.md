@@ -1,7 +1,7 @@
 Projeto POO
-========
-___
-Implementação de uma interface gráfica (GUI) em C++ com um módulo de exploração de base de dados e gráficos de colunas empilhadas.
+====
+
+Implementação de uma interface gráfica (GUI) em C++ com um módulo de exploração de base de dados e gráficos de colunas empilhadas utilizando o framework Qt.
 
 
 Autor 
@@ -29,7 +29,7 @@ Diante de diversas informações obtidas na busca, foram filtrados os dados refe
 
 Com essas informações, foi elaborada uma interface gráfica que dispõe colunas empilhadas com base na escolha do usuário. 
 
-1. O caminho para informações sobre Turma no SIGAA
+1. O caminho para informações sobre Turma no SIGAA  
 ![UFS1](https://imgur.com/tqGvXZb.png)
 2. Consulta dos departamentos
 ![UFS2](https://imgur.com/ntdY1fr.png)
@@ -63,16 +63,16 @@ Funcionalidades
 O programa permite que o usuário escolha quantas e quaisquer componentes (Turmas) de modo a realizar a comparação da vacância das vagas ofertadas, em um gráfico de colunas empilhadas. O comparativo entre matriculados e capacidade tem a observação facilitada utilizando o _scroll_ do mouse para aumentar ou diminuir o _zoom_ do gráfico.
 
 
-4. Interface do usuário
+4. Interface do usuário  
 ![GUI1](https://i.imgur.com/qZoZVaM.png)
-5. Várias seleções são possíveis
+5. Várias seleções são possíveis  
 ![GUI2](https://imgur.com/I1QyZ22.png)
 
 
 Instalação
 ------------
 
-Dentro do MyProjectPOO.zip existem duas pastas: data e file. Utilize os arquivos do "file" (com o .pro) no Qt Creator. Quanto aos arquivo de dados "dados.csv", coloque-o dentro das pastas dos caminhos: 
+Utilize os arquivos com extensão ".pro" no Qt Creator. Quanto aos arquivo de dados "dados.csv", coloque-o dentro das pastas dos caminhos: 
 ```
 \build-ProjetoPOO-Desktop_Qt_5_15_2_MinGW_64_bit-Release
 ```
