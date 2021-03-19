@@ -1,5 +1,6 @@
 Projeto POO
-___
+====
+
 Implementação de uma interface gráfica (GUI) em C++ com um módulo de exploração de base de dados e gráficos de colunas empilhadas.
 
 
