@@ -1,7 +1,7 @@
 Análise da Vacância de Turmas Remotas - UFS - 2020.1
 ====
 
-Implementação de uma interface gráfica (GUI) em C++, a partir da exploração de uma base de dados pública da UFS, que dispõe gráficos de colunas empilhadas para ilustrar o comparativo entre vagas ocupadas e vagas ociosas no primeiro período de ensino remoto.
+Implementação de uma interface gráfica (GUI) em C++, a partir da exploração de uma base de dados não-estruturada e pública da UFS, que dispõe gráficos de colunas empilhadas para ilustrar o comparativo entre vagas ocupadas e vagas ociosas no primeiro período de ensino remoto.
 
 
 Autor 
