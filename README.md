@@ -1,7 +1,7 @@
-Projeto POO
+Análise da Vacância de Turmas Remotas - UFS - 2020.1
 ====
 
-Implementação de uma interface gráfica (GUI) em C++ com um módulo de exploração de base de dados e gráficos de colunas empilhadas utilizando o framework Qt.
+Implementação de uma interface gráfica (GUI) em C++, a partir da exploração de uma base de dados pública da UFS, que dispõe gráficos de colunas empilhadas para ilustrar o comparativo entre vagas ocupadas e vagas ociosas no primeiro período de ensino remoto.
 
 
 Autor 
@@ -27,9 +27,6 @@ O projeto funciona a partir de informações das turmas, coletadas previamente d
 
 Com essas informações, foi elaborada uma interface gráfica que dispõe colunas empilhadas com base na escolha do usuário. 
 
-1. Dados escolhidos
-![UFS3](https://imgur.com/BJT4l8H.png)
-
 Diagrama de classes
 ---
 ![DIAGRAMA DE CLASSES](https://imgur.com/KBPndAi.png)
@@ -40,6 +37,8 @@ Funcionalidades
 O programa permite que o usuário escolha quantas e quaisquer componentes (Turmas) de modo a realizar a comparação da vacância das vagas ofertadas, em um gráfico de colunas empilhadas. O comparativo entre matriculados e capacidade tem a observação facilitada utilizando o _scroll_ do mouse para aumentar ou diminuir o _zoom_ do gráfico.
 
 
+1. Dados escolhidos
+![UFS3](https://imgur.com/BJT4l8H.png)
 2. Interface do usuário  
 ![GUI1](https://i.imgur.com/qZoZVaM.png)
 3. Várias seleções são possíveis  
