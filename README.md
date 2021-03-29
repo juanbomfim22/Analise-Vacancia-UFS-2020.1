@@ -57,5 +57,5 @@ Instalação
 Baixe os arquivos necessários para a plotagem [aqui](https://www.qcustomplot.com/release/2.1.0/QCustomPlot-source.tar.gz):
 1. Descompacte a pasta baixada e coloque `qcustomplot.h` e `qcustomplot.cpp` na pasta `files` deste repositório.
 2. Utilize os arquivos com extensão ".pro" no Qt Creator.
-3. Coloque o arquivo de dados encontrado em `dados/dados.csv` dentro das pastas dos caminhos `\build-ProjetoPOO-Desktop_Qt_5_15_2_MinGW_64_bit-Release` e `\build-ProjetoPOO-Desktop_Qt_5_15_2_MinGW_64_bit-Release\debug`.
+3. Coloque o arquivo de dados encontrado em `data/dados.csv` dentro das pastas dos caminhos `\build-ProjetoPOO-Desktop_Qt_5_15_2_MinGW_64_bit-Release` e `\build-ProjetoPOO-Desktop_Qt_5_15_2_MinGW_64_bit-Release\debug`.
 
