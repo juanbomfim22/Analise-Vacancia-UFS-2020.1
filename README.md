@@ -47,7 +47,7 @@ O programa permite que o usuário escolha quantas e quaisquer componentes (Turma
 Bibliotecas e Frameworks
 -----------
 
-Na versão mais recente:
+Nas versões mais recentes:
 - [Qt Creator](https://www.qt.io/product/development-tools)
 - [QCustomPlot](https://www.qcustomplot.com/index.php/introduction)
 
