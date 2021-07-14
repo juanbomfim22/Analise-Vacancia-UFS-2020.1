@@ -18,14 +18,16 @@ Esse projeto é fruto da disciplina Programação Orientada a Objetos, do Depart
 Descrição
 ---
 
-O projeto funciona a partir de informações das turmas, coletadas previamente de um repositório de dados não-estruturado e público para alunos da UFS. Os dados foram obtidos através da seção "Ensino > Consultar Turma" no Portal do Discente do SIGAA. Com isso, filtraram-se os dados referentes à modalidade Graduação do período 2020.1 quatro categorias foram escolhidas para cada Departamento:
+O projeto funciona a partir de informações das turmas, coletadas previamente de um repositório de dados não-estruturado e público para os alunos da UFS. Os dados foram obtidos através da seção "Ensino > Consultar Turma" no Portal do Discente do SIGAA referentes à modalidade Graduação do período 2020.1. 
+
+Quatro categorias de análise foram escolhidas para cada Departamento:
 
 * **Componente**: dada pela sigla sem os números. Exemplo: ADMI.
 * **Situação**: Aberta, A Definir Docente ou Consolidada.
 * **Matriculados**: quantidade de alunos matriculados no departamento.
 * **Capacidade**: quantidade de vagas disponiveis no departamento.
 
-Com essas informações, foi elaborada uma interface gráfica que dispõe colunas empilhadas com base na escolha do usuário. 
+Com essas informações, foi elaborada uma interface gráfica que dispõe colunas empilhadas com base nas componentes escolhidas pelo usuário. 
 
 Diagrama de classes
 ---
